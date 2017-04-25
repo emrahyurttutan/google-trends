@@ -1,0 +1,21 @@
+{
+    "name": "emrahyurttutan/google-trends",
+    "description": "PHP Google Trends API and Google Keyword Suggest",
+    "license": "MIT",
+    "authors": [
+        {
+          "name": "Emrah YURTTUTAN",
+          "email": "emrah@yurttutan.net"
+        }
+    ],
+    "require-dev" : {
+        "guzzle/guzzle": "dev-master"
+    },
+	"autoload": {
+		"psr-0": {
+			"": "src/",
+			"GoogleTrends": "web/"
+		},
+		"files": ["src/GSoares/GoogleTrends/Search.php"]
+	}
+}
