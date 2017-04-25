@@ -3,6 +3,10 @@
 Angularjs Google Arama Trendleri de arama yapma ve Google Anahtar Kelime Önericisi
 
 -- With Angularjs, you can also search Google Insights for Search and Google Keyword Suggestion
+
+
+https://github.com/gabrielfs7/google-trends/ kütüphanesi geliştirilmiştir / Library developed.
+
 ## Installation
 
 To get the latest version of this package require it in your `composer.json` file.
